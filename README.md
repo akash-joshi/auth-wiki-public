@@ -2,6 +2,8 @@
 
 In this tutorial, you'll learn how to build a wiki-lite app using NextJS, NodeJS, MongoDB & Auth0.
 
+Original article link: https://auth0.com/blog/building-a-wikipedia-app-using-react-hooks-and-auth0/
+
 ## Instructions to run :
 
 1. For development :
